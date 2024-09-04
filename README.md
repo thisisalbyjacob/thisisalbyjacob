@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Alby Jacob Martin
-- 👀 I’m a Btech AI ML student
-- 🌱 I’m currently improving each part of my life
-- 💞️ I’m trying to be the best version of myself
-- 📫 Reach me through mail (" alby4092@gmail.com ")
+Contact via (alby4092@gmail.com)
